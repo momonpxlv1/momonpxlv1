@@ -1,96 +1,139 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Momon&height=120&fontSize=60&animation=fadeIn" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:2b1d0e&height=200&section=header&text=MOMONPXL&fontSize=52&fontColor=F5A623&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Digital%20Craftsman&descAlignY=58&descSize=18&descColor=CFCFCF" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4" />
+</p>
 
-<br/>
+<p align="center">
+  <strong>Software Developer • Backend Engineer • Digital Creative</strong><br/>
+  <sub>Design-driven development with clarity, precision, and purpose</sub>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=560&lines=Building+with+Flask+%2B+Python;Self-taught+%E2%80%A2+Medan%2C+Indonesia;Currently+deep+in+cybersecurity;Editor-as-identity+design+enjoyer)
+<p align="center">
+  <img src="https://i.ibb.co/0jjQ12j1/f02f8eef4c7f.png" width="56" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:1a1a1a&height=3" width="100%"/>
+---
 
-</div>
+### ✨ Creative Showcase
 
-<br/>
+<p align="center">
+  <img src="https://i.ibb.co/xSMNdsS0/36d241b696a2.png" width="90"/>
+  <img src="https://i.ibb.co/vxqhdyFB/a65df3a1d5c8.png" width="90"/>
+  <img src="https://i.ibb.co/gbWhFtxs/5cf427ca69cf.png" width="90"/>
+</p>
 
-## 鈿欙笍 Stack
+<p align="center">
+  <sub>Dark surrealist art & design instincts carried into product work</sub>
+</p>
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=py,flask,js,html,css,react,sqlite,git,github,vscode,linux&theme=dark&perline=6" />
+## ⚡ Core Competency Matrix
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <th>Focus Area</th>
+    <th>Skill</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>System Design</td>
+    <td>Clean Architecture</td>
+    <td>███████████░░ 85%</td>
+  </tr>
+  <tr>
+    <td>Interface Craft</td>
+    <td>UI / UX Design</td>
+    <td>████████████░ 90%</td>
+  </tr>
+  <tr>
+    <td>Debugging</td>
+    <td>Problem Solving</td>
+    <td>██████████░░░ 80%</td>
+  </tr>
+  <tr>
+    <td>Workflow</td>
+    <td>Multitasking</td>
+    <td>███████████░░ 88%</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Code Optimization</td>
+    <td>██████████░░░ 82%</td>
+  </tr>
+</table>
 
-`Python` 路 `Flask` 路 `JavaScript` 路 `HTML5` 路 `CSS3` 路 `React`
-`SQLite` 路 `Termux` 路 `Git` 路 `VS Code` 路 `Acode`
+<sub>※ Progress bar dibuat statis agar cepat load & aman di semua device</sub>
 
-</div>
+---
 
-<br/>
+## 🧠 Tech Stack
 
-## 馃枼锔� Dev Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,js,html,css,git,vscode,github,linux&theme=dark&perline=5" />
+</p>
 
-```
-$ whoami
-momonpxl 鈥� self-taught dev, Medan, Sumatra ID
+<p align="center">
+  Python • Flask • SQLite<br/>
+  JavaScript • HTML5 • CSS3<br/>
+  Git • GitHub • VS Code • Termux
+</p>
 
-$ uname -a
-Termux (Android arm64) 鈥� no Cloudflare Wrangler, GitHub CI/CD instead
+---
 
-$ cat focus.txt
-> Cybersecurity self-study
-> Flask/Python backend work
-> Vanilla JS frontend, no bloat
-```
+## 📊 Development Analytics
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momonpxl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momonpxl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="350" />
+</p>
 
-## 馃殌 Currently Building
+---
 
-<div align="center">
+## 🎯 Active Missions
 
-| Project | Stack | Status |
-|---|---|:---:|
-| **Developer Portfolio** 鈥� "editor-as-identity" MPA | HTML5 / CSS3 / vanilla JS | 馃煛 In progress |
-| **Flask Portfolio** 鈥� "terminal grimoire" aesthetic | Flask, dark amber theme | 馃煛 In progress |
-| **blogcms** | Flask, OTP/2FA, audit log, polls | 鉁� Hardened |
-| **CafePOS** | Flask, multi-tenant, SocketIO, PWA | 鉁� Hardened |
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Architecture</strong><br/><sub>Scalable Flask systems</sub></td>
+    <td align="center" width="200"><strong>UI / UX</strong><br/><sub>Editor-as-identity design</sub></td>
+    <td align="center" width="200"><strong>Security</strong><br/><sub>Cybersecurity self-study</sub></td>
+    <td align="center" width="200"><strong>Mentoring</strong><br/><sub>Sharing what I learn</sub></td>
+  </tr>
+</table>
 
-</div>
+---
 
-<br/>
+## 🔗 Professional Links
 
-## 馃搳 Stats
+<p align="center">
+  <a href="https://www.tiktok.com/@momonxpl">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/momonpxl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/6283895513613">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/momonpxl">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=momonpxl&show_icons=true&hide_border=true&count_private=true&hide=issues&title_color=F5A623&icon_color=F5A623&text_color=CFCFCF&bg_color=0D0D0D" width="410" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momonpxl&layout=compact&hide_border=true&langs_count=6&title_color=F5A623&text_color=CFCFCF&bg_color=0D0D0D" width="330" />
+## 💭 Developer Philosophy
 
-<br/>
+> *"Precision, discipline, and craft — building software that earns trust,
+one commit at a time."*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=momonpxl&hide_border=true&background=0D0D0D&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" width="410" />
+---
 
-</div>
-
-<br/>
-
-## 馃寪 Reach Me
-
-<div align="center">
-
-<a href="https://www.tiktok.com/@momonxpl"><img src="https://img.shields.io/badge/TikTok-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=F5A623"/></a>
-<a href="https://www.instagram.com/momonpxl"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5A623"/></a>
-<a href="https://t.me/momonpxl"><img src="https://img.shields.io/badge/Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=F5A623"/></a>
-<a href="https://wa.me/6283895513613"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=F5A623"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<i>"Precision over noise. Function before flourish."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b1d0e,100:0f0f0f&height=100&section=footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1a1a2e,100:16213e&height=120&section=footer" />
+  <br/>
+  <sub><b>Focus: Backend Engineering | Craft: UI/UX | Discipline: Ongoing</b></sub>
+</p>
